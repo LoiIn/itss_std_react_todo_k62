@@ -1,12 +1,12 @@
 import firebase from 'firebase'
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAhRLYe9lC6g3YMXviyMjHnKfpYLv9MFs0",
-    authDomain: "fir-sample-30792.firebaseapp.com",
-    projectId: "fir-sample-30792",
-    storageBucket: "fir-sample-30792.appspot.com",
-    messagingSenderId: "616237505675",
-    appId: "1:616237505675:web:46229516aa53373163088e"
+    apiKey: "AIzaSyD5cBtnhUSVD7U7UN_hw5T---yZXaznPkQ",
+    authDomain: "fir-sample2-c12cf.firebaseapp.com",
+    projectId: "fir-sample2-c12cf",
+    storageBucket: "fir-sample2-c12cf.appspot.com",
+    messagingSenderId: "926458286200",
+    appId: "1:926458286200:web:1aef958e0cab7475dddd8d"
 };
 
 firebase.initializeApp(firebaseConfig);
